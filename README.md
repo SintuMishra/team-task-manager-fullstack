@@ -333,16 +333,17 @@ npm run start
 
 ## Screenshots
 
-Add screenshots before submission:
+### Login
+![Login](./screenshots/login.png)
 
-- Login page
-- Signup page
-- Admin dashboard
-- Projects page
-- Project details page
-- Task create or edit form
-- Member dashboard or assigned tasks view
-- RBAC difference between admin and member
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Projects
+![Projects](./screenshots/projects.png)
+
+### Project Details
+![Project Details](./screenshots/project-details.png)
 
 ## Submission Checklist
 

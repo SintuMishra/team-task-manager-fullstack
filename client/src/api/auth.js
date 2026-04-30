@@ -1,0 +1,21 @@
+import { http } from "./http";
+
+export const signupRequest = async (payload) => {
+  const { data } = await http.post("/auth/signup", payload);
+  return data;
+};
+
+export const loginRequest = async (payload) => {
+  const { data } = await http.post("/auth/login", payload);
+  return data;
+};
+
+export const meRequest = async () => {
+  const { data } = await http.get("/auth/me");
+  return data;
+};
+
+export const updateProfileRequest = async (payload) => {
+  const { data } = await http.put("/auth/me", payload);
+  return data;
+};

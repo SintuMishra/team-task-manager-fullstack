@@ -1,0 +1,30 @@
+# Testing Checklist
+
+- Signup works with valid data
+- Signup rejects invalid email
+- Signup rejects short passwords
+- Signup rejects duplicate email
+- Login works for admin seed account
+- Login works for member seed account
+- Protected routes redirect unauthenticated users
+- Dashboard loads successfully after login
+- Admin can create a project
+- Admin can edit and delete a project
+- Admin can add a project member by email
+- Admin cannot add duplicate members
+- Admin sees task creation and edit controls
+- Member cannot see project creation controls
+- Member cannot see team management controls
+- Member can update status of assigned tasks only
+- Backend rejects unauthorized project and task mutations
+- Overdue tasks are highlighted visually
+- Task filters work by status, priority, assignee, and overdue state
+- Project search works
+- Profile update works
+- Dashboard loads for both admin and member users
+- Dashboard smoke test passes
+- Health check returns success
+- 404 page renders correctly
+- Mobile layout works on auth and dashboard screens
+- Tablet layout works on project detail screen
+- Desktop layout works across all major pages

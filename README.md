@@ -1,6 +1,8 @@
 # Team Task Manager
 
-Team Task Manager is a full-stack project management application for creating projects, managing team members, assigning tasks, and tracking progress with backend-enforced role-based access control.
+Team Task Manager is a production-ready full-stack project management system built to demonstrate real-world backend architecture, role-based access control, and scalable task workflows.
+
+It allows teams to create projects, manage members, assign tasks, and track progress through a secure API-driven system with strict backend authorization.
 
 ## Submission Links
 

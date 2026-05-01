@@ -5,10 +5,11 @@ Team Task Manager is a production-ready full-stack project management system bui
 It allows teams to create projects, manage members, assign tasks, and track progress through a secure API-driven system with strict backend authorization.
 
 ## Submission Links
+## Live Demo
 
-- Live URL: `LIVE_URL_HERE`
-- GitHub Repository: `GITHUB_REPO_HERE`
-- Demo Video: `DEMO_VIDEO_LINK_HERE`
+- 🌐 Live App: https://team-task-manager-server-production-c341.up.railway.app  
+- 📂 GitHub Repository: https://github.com/SintuMishra/team-task-manager-fullstack  
+- 🎥 Demo Video: DEMO_VIDEO_LINK_HERE
 
 ## Overview
 

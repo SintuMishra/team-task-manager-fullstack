@@ -6,11 +6,11 @@ It allows teams to create projects, manage members, assign tasks, and track prog
 
 ---
 
-## Live Demo
+### Live Demo
 
-* 🌐 Live App: https://team-task-manager-server-production-c341.up.railway.app
-* 📂 GitHub Repository: https://github.com/SintuMishra/team-task-manager-fullstack
-* 🎥 Demo Video: DEMO_VIDEO_LINK_HERE
+- 🌐 Live App: https://team-task-manager-server-production-c341.up.railway.app  
+- 📂 GitHub Repository: https://github.com/SintuMishra/team-task-manager-fullstack  
+- 🎥 Demo Video: https://drive.google.com/file/d/1SIiEe_wTVQSiPvzwr-ai6PXUh2nTZ6lf/view?usp=sharing
 
 ---
 
